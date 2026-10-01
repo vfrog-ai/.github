@@ -29,10 +29,6 @@ Professional workers wear our multisensor devices during real shifts, and we tur
 - **🚨 Kill the bottleneck** — We identify and remove obstacles that hinder progress, empowering each other to make swift decisions and take ownership.
 - **🗣️ Radical Candor** — We communicate honestly and respectfully, even when it's difficult, because we care about each other's growth and the company's success.
 
-### 🛠️ Legacy Tools
-
-- **[vfrog-cli](https://github.com/vfrog-ai/vfrog-cli)** — command-line client for the original vfrog computer vision platform
-
 ### 📬 Connect With Us
 
 - 🌐 [vfrog.ai](https://vfrog.ai/)
